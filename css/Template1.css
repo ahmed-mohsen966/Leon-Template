@@ -145,10 +145,10 @@ body{
   .header .links ul li:not(:last-child) a {
     border-bottom: 1px solid #ddd;
   }
-  /* Ende header */
+  /* End header */
   /* Start Landing Section */
   .landing{
-    background-image: url(/images/wp7558832.webp);
+    background-image: url(//images/wp7558832.webp);
     background-size: cover;
     height: calc((100vh - 64px));
     position: relative;
